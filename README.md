@@ -1,3 +1,5 @@
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/jhpoelen/w3c/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/jhpoelen/w3c)
+
 Tracks a select few [W3C Recommendations](w3c.txt).
 
 To update, use [GNU's Make](https://www.gnu.org/software/make/) to track selected [W3C recommendations](w3c.txt) via [Makefile](Makefile): 
